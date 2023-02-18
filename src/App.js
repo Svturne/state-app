@@ -3,7 +3,7 @@ import React, { Component } from "react";
 class App extends Component {
   state = {
     person: {
-      fullName: "Mehdi Badsi",
+      fullName: "Mehdi Abdelkader",
       bio: "En formation chez Go my code",
       imgSrc:
         "https://marketplace.canva.com/EAFEits4-uw/1/0/1600w/canva-boy-cartoon-gamer-animated-twitch-profile-photo-oEqs2yqaL8s.jpg",
